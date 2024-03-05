@@ -18,7 +18,7 @@ const Card = () => {
           },
         }
       );
-      console.log(accessToken);
+      
       setProfileInfo(response.data);
     } catch (error) {}
   };
