@@ -29,8 +29,8 @@ NEXT_PUBLIC_GITHUB_API_TOKEN=your-github-api-token
 ```
 
 3. Start the development server:
-
+```bash 
 npm run dev
-
+```
 4. Open your browser and navigate to http://localhost:3000 to use the GitHub search application.
 
