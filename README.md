@@ -24,7 +24,7 @@ Copy the token and store it securely.
 
 2. Create a .env.local file in the project root and add your GitHub API token:
 
-NEXT_PUBLIC_GITHUB_API_TOKEN=your-github-api-token
+``` NEXT_PUBLIC_GITHUB_API_TOKEN=your-github-api-token
 
 3. Start the development server:
 
